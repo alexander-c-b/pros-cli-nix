@@ -1,0 +1,9 @@
+click>=6,<7
+pyserial
+cachetools
+semantic_version
+cobs
+scan-build==2.0.13
+rfc6266-parser
+observable
+pypng==0.0.20
